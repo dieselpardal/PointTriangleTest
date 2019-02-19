@@ -1,0 +1,32 @@
+# Python compiled files
+__pycache__/
+*.pyc
+
+.coverage
+# Python pyvenv generated folders
+virtual_env/
+
+# IDE files
+.idea/
+*.swp
+
+# LIB Files
+lib/
+# SQLite3 database
+*.sqlite
+
+# pytest cache files
+.cache
+
+# class files
+*.class
+
+
+.DS_Store
+/keyrings/live/pubring.gpg~
+/keyrings/live/pubring.kbx~
+/keyrings/live/secring.gpg
+
+
+
+x
